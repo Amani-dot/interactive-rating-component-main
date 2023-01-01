@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/Amani-dot/interactive-rating-component-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
@@ -31,5 +31,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Amani-dot)
-- Twitter - [@yourusername](https://www.twitter.com/Amani-Off)
+- Frontend Mentor - [@Amani-dot](https://www.frontendmentor.io/profile/Amani-dot)
+- Twitter - [@Amani-Off](https://www.twitter.com/Amani-Off)
