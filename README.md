@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/Amani-dot/interactive-rating-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://amani-dot.github.io/interactive-rating-component-main/)
 
 ### Built with
 
